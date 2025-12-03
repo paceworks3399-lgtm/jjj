@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ai asistant",
+  "description": "A voice-to-voice AI girlfriend companion with emotional intelligence, supporting English and Urdu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
